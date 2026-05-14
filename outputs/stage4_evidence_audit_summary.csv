@@ -1,0 +1,27 @@
+﻿policy_theme,evidence_strength,review_flag,n_clauses,percentage_of_substantive_clauses
+Economic and Pricing Policy,ambiguous_small_margin,True,10,1.0
+Economic and Pricing Policy,moderate_evidence,False,8,0.8
+Economic and Pricing Policy,strong_evidence,False,85,8.46
+Economic and Pricing Policy,weak_evidence,True,28,2.79
+Energy Access and Equity,ambiguous_small_margin,True,5,0.5
+Energy Access and Equity,moderate_evidence,False,4,0.4
+Energy Access and Equity,strong_evidence,False,9,0.9
+Energy Access and Equity,weak_evidence,True,3,0.3
+Energy Security,ambiguous_small_margin,True,2,0.2
+Energy Security,moderate_evidence,False,8,0.8
+Energy Security,strong_evidence,False,44,4.38
+Energy Security,weak_evidence,True,23,2.29
+Environmental Protection and Safety,ambiguous_small_margin,True,2,0.2
+Environmental Protection and Safety,moderate_evidence,False,1,0.1
+Environmental Protection and Safety,strong_evidence,False,29,2.89
+Environmental Protection and Safety,weak_evidence,True,3,0.3
+Governance and Institutional Responsibility,ambiguous_small_margin,True,32,3.18
+Governance and Institutional Responsibility,moderate_evidence,False,36,3.58
+Governance and Institutional Responsibility,strong_evidence,False,143,14.23
+Governance and Institutional Responsibility,weak_evidence,True,74,7.36
+Other/Needs Review,no_evidence,True,133,13.23
+Other/Needs Review,weak_or_insufficient_evidence,True,125,12.44
+Renewable and Sustainable Energy,ambiguous_small_margin,True,33,3.28
+Renewable and Sustainable Energy,moderate_evidence,False,25,2.49
+Renewable and Sustainable Energy,strong_evidence,False,100,9.95
+Renewable and Sustainable Energy,weak_evidence,True,40,3.98

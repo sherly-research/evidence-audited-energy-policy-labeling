@@ -1,0 +1,556 @@
+﻿policy_theme,label_id,keyword,normalized_keyword,keyword_weight,keyword_type
+Energy Security,L1,ketahanan energi,ketahanan energi,2.0,strong
+Energy Security,L1,keamanan energi,keamanan energi,1.0,normal
+Energy Security,L1,kemandirian energi,kemandirian energi,1.0,normal
+Energy Security,L1,kedaulatan energi,kedaulatan energi,1.0,normal
+Energy Security,L1,ketersediaan energi,ketersediaan energi,2.0,strong
+Energy Security,L1,jaminan ketersediaan energi,jaminan ketersediaan energi,1.35,normal
+Energy Security,L1,cadangan penyangga,cadangan penyangga,1.0,normal
+Energy Security,L1,cadangan penyangga energi,cadangan penyangga energi,1.35,normal
+Energy Security,L1,cadangan energi,cadangan energi,1.0,normal
+Energy Security,L1,cadangan energi nasional,cadangan energi nasional,2.35,strong
+Energy Security,L1,cadangan strategis,cadangan strategis,1.0,normal
+Energy Security,L1,cadangan operasional,cadangan operasional,1.0,normal
+Energy Security,L1,cadangan bahan bakar,cadangan bahan bakar,1.35,normal
+Energy Security,L1,pasokan energi,pasokan energi,1.0,normal
+Energy Security,L1,keamanan pasokan,keamanan pasokan,1.0,normal
+Energy Security,L1,kontinuitas pasokan,kontinuitas pasokan,1.0,normal
+Energy Security,L1,kelangsungan pasokan,kelangsungan pasokan,1.0,normal
+Energy Security,L1,keandalan pasokan,keandalan pasokan,1.0,normal
+Energy Security,L1,penyediaan energi,penyediaan energi,1.0,normal
+Energy Security,L1,pemenuhan kebutuhan energi,pemenuhan kebutuhan energi,1.35,normal
+Energy Security,L1,kebutuhan energi,kebutuhan energi,1.0,normal
+Energy Security,L1,kebutuhan energi nasional,kebutuhan energi nasional,1.35,normal
+Energy Security,L1,permintaan energi,permintaan energi,1.0,normal
+Energy Security,L1,proyeksi kebutuhan energi,proyeksi kebutuhan energi,1.35,normal
+Energy Security,L1,krisis energi,krisis energi,2.0,strong
+Energy Security,L1,darurat energi,darurat energi,2.0,strong
+Energy Security,L1,kondisi krisis energi,kondisi krisis energi,1.35,normal
+Energy Security,L1,gangguan pasokan,gangguan pasokan,1.0,normal
+Energy Security,L1,kelangkaan energi,kelangkaan energi,1.0,normal
+Energy Security,L1,kekurangan energi,kekurangan energi,1.0,normal
+Energy Security,L1,sumber energi dalam negeri,sumber energi dalam negeri,1.35,normal
+Energy Security,L1,sumber daya energi nasional,sumber daya energi nasional,1.35,normal
+Energy Security,L1,energi primer,energi primer,1.0,normal
+Energy Security,L1,penyediaan energi primer,penyediaan energi primer,1.35,normal
+Energy Security,L1,energi final,energi final,1.0,normal
+Energy Security,L1,penyediaan energi final,penyediaan energi final,1.35,normal
+Energy Security,L1,rasio elektrifikasi,rasio elektrifikasi,1.0,normal
+Energy Security,L1,elektrifikasi,elektrifikasi,1.0,normal
+Energy Security,L1,keandalan sistem tenaga listrik,keandalan sistem tenaga listrik,1.35,normal
+Energy Security,L1,sistem ketenagalistrikan,sistem ketenagalistrikan,1.0,normal
+Energy Security,L1,sistem tenaga listrik,sistem tenaga listrik,1.35,normal
+Energy Security,L1,daya mampu,daya mampu,1.0,normal
+Energy Security,L1,daya dukung energi,daya dukung energi,1.35,normal
+Energy Security,L1,infrastruktur energi,infrastruktur energi,1.0,normal
+Energy Security,L1,jaringan energi,jaringan energi,1.0,normal
+Energy Security,L1,transmisi energi,transmisi energi,1.0,normal
+Energy Security,L1,distribusi energi,distribusi energi,1.0,normal
+Energy Security,L1,penyimpanan energi,penyimpanan energi,1.0,normal
+Energy Security,L1,logistik energi,logistik energi,1.0,normal
+Energy Security,L1,rantai pasok energi,rantai pasok energi,1.35,normal
+Energy Security,L1,bahan bakar minyak,bahan bakar minyak,1.35,normal
+Energy Security,L1,bbm,bbm,1.0,normal
+Energy Security,L1,gas bumi,gas bumi,0.35,weak_or_ambiguous
+Energy Security,L1,minyak bumi,minyak bumi,0.35,weak_or_ambiguous
+Energy Security,L1,batubara,batubara,0.35,weak_or_ambiguous
+Energy Security,L1,tenaga listrik,tenaga listrik,0.45,weak_or_ambiguous
+Energy Security,L1,pembangkit tenaga listrik,pembangkit tenaga listrik,1.35,normal
+Energy Security,L1,pembangkit listrik,pembangkit listrik,1.0,normal
+Energy Security,L1,kapasitas pembangkit,kapasitas pembangkit,1.0,normal
+Energy Security,L1,kapasitas terpasang,kapasitas terpasang,1.0,normal
+Energy Security,L1,cadangan pembangkit,cadangan pembangkit,1.0,normal
+Energy Security,L1,margin cadangan,margin cadangan,1.0,normal
+Energy Security,L1,reserve margin,reserve margin,1.0,normal
+Energy Security,L1,pengamanan pasokan energi,pengamanan pasokan energi,1.35,normal
+Energy Security,L1,jaminan pasokan energi,jaminan pasokan energi,1.35,normal
+Energy Access and Equity,L2,akses masyarakat,akses masyarakat,1.0,normal
+Energy Access and Equity,L2,akses energi,akses energi,1.0,normal
+Energy Access and Equity,L2,akses terhadap energi,akses terhadap energi,2.35,strong
+Energy Access and Equity,L2,akses untuk masyarakat,akses untuk masyarakat,1.35,normal
+Energy Access and Equity,L2,akses tenaga listrik,akses tenaga listrik,1.35,normal
+Energy Access and Equity,L2,akses listrik,akses listrik,1.0,normal
+Energy Access and Equity,L2,memperoleh energi,memperoleh energi,1.0,normal
+Energy Access and Equity,L2,hak memperoleh energi,hak memperoleh energi,1.35,normal
+Energy Access and Equity,L2,penyediaan energi bagi masyarakat,penyediaan energi bagi masyarakat,1.35,normal
+Energy Access and Equity,L2,pelayanan energi,pelayanan energi,1.0,normal
+Energy Access and Equity,L2,pelayanan ketenagalistrikan,pelayanan ketenagalistrikan,1.0,normal
+Energy Access and Equity,L2,pelayanan tenaga listrik,pelayanan tenaga listrik,1.35,normal
+Energy Access and Equity,L2,pelayanan publik,pelayanan publik,1.0,normal
+Energy Access and Equity,L2,kepentingan umum,kepentingan umum,1.0,normal
+Energy Access and Equity,L2,rumah tangga,rumah tangga,0.45,weak_or_ambiguous
+Energy Access and Equity,L2,konsumen rumah tangga,konsumen rumah tangga,1.35,normal
+Energy Access and Equity,L2,masyarakat pengguna energi,masyarakat pengguna energi,1.35,normal
+Energy Access and Equity,L2,berkeadilan,berkeadilan,1.0,normal
+Energy Access and Equity,L2,adil dan merata,adil dan merata,1.35,normal
+Energy Access and Equity,L2,keadilan energi,keadilan energi,2.0,strong
+Energy Access and Equity,L2,pemerataan,pemerataan,1.0,normal
+Energy Access and Equity,L2,pemerataan energi,pemerataan energi,1.0,normal
+Energy Access and Equity,L2,pemerataan akses energi,pemerataan akses energi,1.35,normal
+Energy Access and Equity,L2,pemerataan listrik,pemerataan listrik,1.0,normal
+Energy Access and Equity,L2,pemerataan pelayanan energi,pemerataan pelayanan energi,1.35,normal
+Energy Access and Equity,L2,disparitas,disparitas,1.0,normal
+Energy Access and Equity,L2,kesenjangan akses,kesenjangan akses,1.0,normal
+Energy Access and Equity,L2,ketimpangan akses,ketimpangan akses,1.0,normal
+Energy Access and Equity,L2,ketimpangan energi,ketimpangan energi,1.0,normal
+Energy Access and Equity,L2,keterjangkauan energi,keterjangkauan energi,1.0,normal
+Energy Access and Equity,L2,terjangkau,terjangkau,1.0,normal
+Energy Access and Equity,L2,harga terjangkau,harga terjangkau,1.0,normal
+Energy Access and Equity,L2,kemampuan masyarakat,kemampuan masyarakat,1.0,normal
+Energy Access and Equity,L2,daya beli masyarakat,daya beli masyarakat,1.35,normal
+Energy Access and Equity,L2,masyarakat tidak mampu,masyarakat tidak mampu,2.35,strong
+Energy Access and Equity,L2,kelompok masyarakat tidak mampu,kelompok masyarakat tidak mampu,1.35,normal
+Energy Access and Equity,L2,masyarakat berpenghasilan rendah,masyarakat berpenghasilan rendah,1.35,normal
+Energy Access and Equity,L2,rumah tangga miskin,rumah tangga miskin,1.35,normal
+Energy Access and Equity,L2,kelompok rentan,kelompok rentan,1.0,normal
+Energy Access and Equity,L2,masyarakat miskin,masyarakat miskin,1.0,normal
+Energy Access and Equity,L2,daerah terpencil,daerah terpencil,2.0,strong
+Energy Access and Equity,L2,daerah tertinggal,daerah tertinggal,2.0,strong
+Energy Access and Equity,L2,daerah belum berkembang,daerah belum berkembang,1.35,normal
+Energy Access and Equity,L2,daerah perdesaan,daerah perdesaan,1.0,normal
+Energy Access and Equity,L2,wilayah perdesaan,wilayah perdesaan,1.0,normal
+Energy Access and Equity,L2,desa,desa,1.0,normal
+Energy Access and Equity,L2,perdesaan,perdesaan,1.0,normal
+Energy Access and Equity,L2,daerah kepulauan,daerah kepulauan,1.0,normal
+Energy Access and Equity,L2,wilayah kepulauan,wilayah kepulauan,1.0,normal
+Energy Access and Equity,L2,daerah perbatasan,daerah perbatasan,1.0,normal
+Energy Access and Equity,L2,wilayah perbatasan,wilayah perbatasan,1.0,normal
+Energy Access and Equity,L2,wilayah terpencil,wilayah terpencil,1.0,normal
+Energy Access and Equity,L2,wilayah terluar,wilayah terluar,1.0,normal
+Energy Access and Equity,L2,wilayah tertinggal,wilayah tertinggal,1.0,normal
+Energy Access and Equity,L2,daerah terluar,daerah terluar,1.0,normal
+Energy Access and Equity,L2,daerah tertinggal terdepan dan terluar,daerah tertinggal terdepan dan terluar,1.55,normal
+Energy Access and Equity,L2,3t,3t,1.0,normal
+Energy Access and Equity,L2,listrik perdesaan,listrik perdesaan,1.0,normal
+Energy Access and Equity,L2,energi perdesaan,energi perdesaan,1.0,normal
+Energy Access and Equity,L2,program listrik perdesaan,program listrik perdesaan,1.35,normal
+Energy Access and Equity,L2,rasio elektrifikasi daerah,rasio elektrifikasi daerah,1.35,normal
+Energy Access and Equity,L2,desa berlistrik,desa berlistrik,1.0,normal
+Energy Access and Equity,L2,penyambungan listrik,penyambungan listrik,1.0,normal
+Energy Access and Equity,L2,sambungan listrik,sambungan listrik,1.0,normal
+Energy Access and Equity,L2,subsidi masyarakat,subsidi masyarakat,1.0,normal
+Energy Access and Equity,L2,subsidi bagi masyarakat,subsidi bagi masyarakat,1.35,normal
+Energy Access and Equity,L2,bantuan energi,bantuan energi,1.0,normal
+Energy Access and Equity,L2,bantuan listrik,bantuan listrik,1.0,normal
+Energy Access and Equity,L2,energi untuk masyarakat,energi untuk masyarakat,1.35,normal
+Energy Access and Equity,L2,akses universal,akses universal,1.0,normal
+Energy Access and Equity,L2,universal access,universal access,1.0,normal
+Renewable and Sustainable Energy,L3,energi baru,energi baru,1.0,normal
+Renewable and Sustainable Energy,L3,energi terbarukan,energi terbarukan,2.0,strong
+Renewable and Sustainable Energy,L3,energi baru terbarukan,energi baru terbarukan,1.35,normal
+Renewable and Sustainable Energy,L3,energi baru dan terbarukan,energi baru dan terbarukan,2.35,strong
+Renewable and Sustainable Energy,L3,ebt,ebt,1.0,normal
+Renewable and Sustainable Energy,L3,sumber energi baru,sumber energi baru,1.35,normal
+Renewable and Sustainable Energy,L3,sumber energi terbarukan,sumber energi terbarukan,1.35,normal
+Renewable and Sustainable Energy,L3,sumber energi baru dan terbarukan,sumber energi baru dan terbarukan,1.55,normal
+Renewable and Sustainable Energy,L3,pemanfaatan energi terbarukan,pemanfaatan energi terbarukan,1.35,normal
+Renewable and Sustainable Energy,L3,pengembangan energi terbarukan,pengembangan energi terbarukan,1.35,normal
+Renewable and Sustainable Energy,L3,pengembangan energi baru,pengembangan energi baru,1.35,normal
+Renewable and Sustainable Energy,L3,pengembangan ebt,pengembangan ebt,1.0,normal
+Renewable and Sustainable Energy,L3,konservasi energi,konservasi energi,2.0,strong
+Renewable and Sustainable Energy,L3,konservasi sumber daya energi,konservasi sumber daya energi,1.35,normal
+Renewable and Sustainable Energy,L3,penghematan energi,penghematan energi,1.0,normal
+Renewable and Sustainable Energy,L3,hemat energi,hemat energi,1.0,normal
+Renewable and Sustainable Energy,L3,efisiensi energi,efisiensi energi,2.0,strong
+Renewable and Sustainable Energy,L3,peningkatan efisiensi energi,peningkatan efisiensi energi,1.35,normal
+Renewable and Sustainable Energy,L3,manajemen energi,manajemen energi,1.0,normal
+Renewable and Sustainable Energy,L3,audit energi,audit energi,1.0,normal
+Renewable and Sustainable Energy,L3,diversifikasi energi,diversifikasi energi,1.0,normal
+Renewable and Sustainable Energy,L3,penganekaragaman energi,penganekaragaman energi,1.0,normal
+Renewable and Sustainable Energy,L3,substitusi energi,substitusi energi,1.0,normal
+Renewable and Sustainable Energy,L3,bauran energi,bauran energi,1.0,normal
+Renewable and Sustainable Energy,L3,bauran energi nasional,bauran energi nasional,2.35,strong
+Renewable and Sustainable Energy,L3,bauran energi primer,bauran energi primer,1.35,normal
+Renewable and Sustainable Energy,L3,target bauran energi,target bauran energi,1.35,normal
+Renewable and Sustainable Energy,L3,porsi energi terbarukan,porsi energi terbarukan,1.35,normal
+Renewable and Sustainable Energy,L3,transisi energi,transisi energi,1.0,normal
+Renewable and Sustainable Energy,L3,transformasi energi,transformasi energi,1.0,normal
+Renewable and Sustainable Energy,L3,pembangunan berkelanjutan,pembangunan berkelanjutan,1.0,normal
+Renewable and Sustainable Energy,L3,berkelanjutan,berkelanjutan,1.0,normal
+Renewable and Sustainable Energy,L3,keberlanjutan,keberlanjutan,1.0,normal
+Renewable and Sustainable Energy,L3,lestari,lestari,1.0,normal
+Renewable and Sustainable Energy,L3,rendah karbon,rendah karbon,1.0,normal
+Renewable and Sustainable Energy,L3,dekarbonisasi,dekarbonisasi,1.0,normal
+Renewable and Sustainable Energy,L3,net zero emission,net zero emission,1.35,normal
+Renewable and Sustainable Energy,L3,nze,nze,1.0,normal
+Renewable and Sustainable Energy,L3,energi bersih,energi bersih,1.0,normal
+Renewable and Sustainable Energy,L3,teknologi energi bersih,teknologi energi bersih,1.35,normal
+Renewable and Sustainable Energy,L3,teknologi rendah karbon,teknologi rendah karbon,1.35,normal
+Renewable and Sustainable Energy,L3,intensitas energi,intensitas energi,1.0,normal
+Renewable and Sustainable Energy,L3,elastisitas energi,elastisitas energi,1.0,normal
+Renewable and Sustainable Energy,L3,panas bumi,panas bumi,0.35,weak_or_ambiguous
+Renewable and Sustainable Energy,L3,geothermal,geothermal,0.35,weak_or_ambiguous
+Renewable and Sustainable Energy,L3,bioenergi,bioenergi,1.0,normal
+Renewable and Sustainable Energy,L3,biomassa,biomassa,1.0,normal
+Renewable and Sustainable Energy,L3,biogas,biogas,1.0,normal
+Renewable and Sustainable Energy,L3,bahan bakar nabati,bahan bakar nabati,1.35,normal
+Renewable and Sustainable Energy,L3,bbn,bbn,1.0,normal
+Renewable and Sustainable Energy,L3,biofuel,biofuel,1.0,normal
+Renewable and Sustainable Energy,L3,biodiesel,biodiesel,1.0,normal
+Renewable and Sustainable Energy,L3,bioetanol,bioetanol,1.0,normal
+Renewable and Sustainable Energy,L3,sinar matahari,sinar matahari,1.0,normal
+Renewable and Sustainable Energy,L3,energi surya,energi surya,1.0,normal
+Renewable and Sustainable Energy,L3,tenaga surya,tenaga surya,1.0,normal
+Renewable and Sustainable Energy,L3,sel surya,sel surya,1.0,normal
+Renewable and Sustainable Energy,L3,panel surya,panel surya,1.0,normal
+Renewable and Sustainable Energy,L3,plts,plts,1.0,normal
+Renewable and Sustainable Energy,L3,pembangkit listrik tenaga surya,pembangkit listrik tenaga surya,1.35,normal
+Renewable and Sustainable Energy,L3,angin,angin,1.0,normal
+Renewable and Sustainable Energy,L3,energi angin,energi angin,1.0,normal
+Renewable and Sustainable Energy,L3,tenaga angin,tenaga angin,1.0,normal
+Renewable and Sustainable Energy,L3,pltb,pltb,1.0,normal
+Renewable and Sustainable Energy,L3,pembangkit listrik tenaga bayu,pembangkit listrik tenaga bayu,1.35,normal
+Renewable and Sustainable Energy,L3,tenaga air,tenaga air,1.0,normal
+Renewable and Sustainable Energy,L3,energi air,energi air,1.0,normal
+Renewable and Sustainable Energy,L3,plta,plta,1.0,normal
+Renewable and Sustainable Energy,L3,pembangkit listrik tenaga air,pembangkit listrik tenaga air,1.35,normal
+Renewable and Sustainable Energy,L3,mikrohidro,mikrohidro,1.0,normal
+Renewable and Sustainable Energy,L3,pltmh,pltmh,1.0,normal
+Renewable and Sustainable Energy,L3,arus laut,arus laut,1.0,normal
+Renewable and Sustainable Energy,L3,gelombang laut,gelombang laut,1.0,normal
+Renewable and Sustainable Energy,L3,energi laut,energi laut,1.0,normal
+Renewable and Sustainable Energy,L3,energi samudera,energi samudera,1.0,normal
+Renewable and Sustainable Energy,L3,hidrogen,hidrogen,1.0,normal
+Renewable and Sustainable Energy,L3,hidrogen hijau,hidrogen hijau,1.0,normal
+Renewable and Sustainable Energy,L3,nuklir,nuklir,0.35,weak_or_ambiguous
+Renewable and Sustainable Energy,L3,energi nuklir,energi nuklir,1.0,normal
+Renewable and Sustainable Energy,L3,pltn,pltn,1.0,normal
+Renewable and Sustainable Energy,L3,pembangkit listrik tenaga nuklir,pembangkit listrik tenaga nuklir,1.35,normal
+Renewable and Sustainable Energy,L3,batubara tergaskan,batubara tergaskan,1.0,normal
+Renewable and Sustainable Energy,L3,batubara tercairkan,batubara tercairkan,1.0,normal
+Renewable and Sustainable Energy,L3,gasifikasi batubara,gasifikasi batubara,1.0,normal
+Renewable and Sustainable Energy,L3,pencairan batubara,pencairan batubara,1.0,normal
+Renewable and Sustainable Energy,L3,coal gasification,coal gasification,1.0,normal
+Renewable and Sustainable Energy,L3,coal liquefaction,coal liquefaction,1.0,normal
+Renewable and Sustainable Energy,L3,waste to energy,waste to energy,1.35,normal
+Renewable and Sustainable Energy,L3,sampah menjadi energi,sampah menjadi energi,1.35,normal
+Renewable and Sustainable Energy,L3,pemanfaatan sampah menjadi energi,pemanfaatan sampah menjadi energi,1.35,normal
+Renewable and Sustainable Energy,L3,bahan bakar alternatif,bahan bakar alternatif,1.35,normal
+Renewable and Sustainable Energy,L3,energi alternatif,energi alternatif,1.0,normal
+Renewable and Sustainable Energy,L3,sumber energi alternatif,sumber energi alternatif,1.35,normal
+Renewable and Sustainable Energy,L3,energi nonfosil,energi nonfosil,1.0,normal
+Renewable and Sustainable Energy,L3,pengurangan energi fosil,pengurangan energi fosil,1.35,normal
+Renewable and Sustainable Energy,L3,energi panas bumi,energi panas bumi,1.5,normal
+Renewable and Sustainable Energy,L3,energi terbarukan berupa panas bumi,energi terbarukan berupa panas bumi,1.8,strong
+Renewable and Sustainable Energy,L3,pemanfaatan energi terbarukan berupa panas bumi,pemanfaatan energi terbarukan berupa panas bumi,1.8,strong
+Renewable and Sustainable Energy,L3,pemanfaatan panas bumi,pemanfaatan panas bumi,0.9,normal
+Renewable and Sustainable Energy,L3,pengembangan panas bumi,pengembangan panas bumi,0.9,normal
+Renewable and Sustainable Energy,L3,pengusahaan panas bumi,pengusahaan panas bumi,0.7,normal
+Renewable and Sustainable Energy,L3,pembangkit listrik tenaga panas bumi,pembangkit listrik tenaga panas bumi,1.6,strong
+Renewable and Sustainable Energy,L3,pembangkit tenaga listrik panas bumi,pembangkit tenaga listrik panas bumi,1.5,normal
+Renewable and Sustainable Energy,L3,pembangkit listrik panas bumi,pembangkit listrik panas bumi,1.4,normal
+Renewable and Sustainable Energy,L3,tenaga uap panas bumi,tenaga uap panas bumi,1.2,normal
+Renewable and Sustainable Energy,L3,wilayah kerja panas bumi,wilayah kerja panas bumi,0.85,normal
+Renewable and Sustainable Energy,L3,sumber daya panas bumi,sumber daya panas bumi,0.95,normal
+Renewable and Sustainable Energy,L3,cadangan panas bumi,cadangan panas bumi,1.1,normal
+Economic and Pricing Policy,L4,harga energi,harga energi,2.0,strong
+Economic and Pricing Policy,L4,harga jual energi,harga jual energi,1.35,normal
+Economic and Pricing Policy,L4,harga jual,harga jual,1.0,normal
+Economic and Pricing Policy,L4,harga keekonomian,harga keekonomian,2.0,strong
+Economic and Pricing Policy,L4,nilai keekonomian,nilai keekonomian,1.0,normal
+Economic and Pricing Policy,L4,keekonomian,keekonomian,1.0,normal
+Economic and Pricing Policy,L4,keekonomian berkeadilan,keekonomian berkeadilan,1.0,normal
+Economic and Pricing Policy,L4,tarif energi,tarif energi,1.0,normal
+Economic and Pricing Policy,L4,tarif listrik,tarif listrik,2.0,strong
+Economic and Pricing Policy,L4,tarif tenaga listrik,tarif tenaga listrik,1.35,normal
+Economic and Pricing Policy,L4,tarif ketenagalistrikan,tarif ketenagalistrikan,1.0,normal
+Economic and Pricing Policy,L4,feed-in tariff,feed in tariff,1.35,normal
+Economic and Pricing Policy,L4,subsidi,subsidi,1.0,normal
+Economic and Pricing Policy,L4,dana subsidi,dana subsidi,1.0,normal
+Economic and Pricing Policy,L4,subsidi energi,subsidi energi,2.0,strong
+Economic and Pricing Policy,L4,subsidi listrik,subsidi listrik,1.0,normal
+Economic and Pricing Policy,L4,subsidi bbm,subsidi bbm,1.0,normal
+Economic and Pricing Policy,L4,subsidi bahan bakar,subsidi bahan bakar,1.35,normal
+Economic and Pricing Policy,L4,insentif,insentif,1.0,normal
+Economic and Pricing Policy,L4,disinsentif,disinsentif,1.0,normal
+Economic and Pricing Policy,L4,insentif fiskal,insentif fiskal,2.0,strong
+Economic and Pricing Policy,L4,insentif nonfiskal,insentif nonfiskal,1.0,normal
+Economic and Pricing Policy,L4,fiskal,fiskal,1.0,normal
+Economic and Pricing Policy,L4,nonfiskal,nonfiskal,1.0,normal
+Economic and Pricing Policy,L4,pajak,pajak,1.0,normal
+Economic and Pricing Policy,L4,perpajakan,perpajakan,1.0,normal
+Economic and Pricing Policy,L4,bea masuk,bea masuk,1.0,normal
+Economic and Pricing Policy,L4,penerimaan negara,penerimaan negara,1.0,normal
+Economic and Pricing Policy,L4,penerimaan negara bukan pajak,penerimaan negara bukan pajak,1.35,normal
+Economic and Pricing Policy,L4,pnbp,pnbp,1.0,normal
+Economic and Pricing Policy,L4,royalti,royalti,1.0,normal
+Economic and Pricing Policy,L4,devisa negara,devisa negara,1.0,normal
+Economic and Pricing Policy,L4,nilai tambah,nilai tambah,1.0,normal
+Economic and Pricing Policy,L4,peningkatan nilai tambah,peningkatan nilai tambah,1.35,normal
+Economic and Pricing Policy,L4,hilirisasi,hilirisasi,1.0,normal
+Economic and Pricing Policy,L4,industri energi,industri energi,1.0,normal
+Economic and Pricing Policy,L4,perekonomian,perekonomian,0.25,weak_or_ambiguous
+Economic and Pricing Policy,L4,perekonomian nasional,perekonomian nasional,1.0,normal
+Economic and Pricing Policy,L4,pertumbuhan ekonomi,pertumbuhan ekonomi,1.0,normal
+Economic and Pricing Policy,L4,lapangan kerja,lapangan kerja,0.45,weak_or_ambiguous
+Economic and Pricing Policy,L4,kesempatan kerja,kesempatan kerja,1.0,normal
+Economic and Pricing Policy,L4,daya beli,daya beli,1.0,normal
+Economic and Pricing Policy,L4,daya beli masyarakat,daya beli masyarakat,1.35,normal
+Economic and Pricing Policy,L4,keterjangkauan harga,keterjangkauan harga,1.0,normal
+Economic and Pricing Policy,L4,kemampuan ekonomi masyarakat,kemampuan ekonomi masyarakat,1.35,normal
+Economic and Pricing Policy,L4,pendanaan,pendanaan,1.0,normal
+Economic and Pricing Policy,L4,pembiayaan,pembiayaan,1.0,normal
+Economic and Pricing Policy,L4,investasi,investasi,1.0,normal
+Economic and Pricing Policy,L4,penanaman modal,penanaman modal,1.0,normal
+Economic and Pricing Policy,L4,modal,modal,1.0,normal
+Economic and Pricing Policy,L4,perbankan,perbankan,1.0,normal
+Economic and Pricing Policy,L4,lembaga keuangan,lembaga keuangan,1.0,normal
+Economic and Pricing Policy,L4,alokasi dana,alokasi dana,1.0,normal
+Economic and Pricing Policy,L4,alokasi anggaran,alokasi anggaran,1.0,normal
+Economic and Pricing Policy,L4,anggaran,anggaran,0.35,weak_or_ambiguous
+Economic and Pricing Policy,L4,apbn,apbn,0.35,weak_or_ambiguous
+Economic and Pricing Policy,L4,apbd,apbd,0.35,weak_or_ambiguous
+Economic and Pricing Policy,L4,badan usaha,badan usaha,0.3,weak_or_ambiguous
+Economic and Pricing Policy,L4,bumn,bumn,1.0,normal
+Economic and Pricing Policy,L4,bumd,bumd,1.0,normal
+Economic and Pricing Policy,L4,koperasi,koperasi,1.0,normal
+Economic and Pricing Policy,L4,swasta,swasta,1.0,normal
+Economic and Pricing Policy,L4,pasar tenaga listrik,pasar tenaga listrik,1.35,normal
+Economic and Pricing Policy,L4,jual beli tenaga listrik,jual beli tenaga listrik,1.35,normal
+Economic and Pricing Policy,L4,perjanjian jual beli tenaga listrik,perjanjian jual beli tenaga listrik,2.55,strong
+Economic and Pricing Policy,L4,pjbl,pjbl,1.0,normal
+Economic and Pricing Policy,L4,premi pengurasan,premi pengurasan,1.0,normal
+Economic and Pricing Policy,L4,biaya produksi,biaya produksi,1.0,normal
+Economic and Pricing Policy,L4,biaya pokok penyediaan,biaya pokok penyediaan,1.35,normal
+Economic and Pricing Policy,L4,bpp,bpp,1.0,normal
+Economic and Pricing Policy,L4,biaya energi,biaya energi,1.0,normal
+Economic and Pricing Policy,L4,biaya penyediaan energi,biaya penyediaan energi,1.35,normal
+Economic and Pricing Policy,L4,skema pembiayaan,skema pembiayaan,1.0,normal
+Economic and Pricing Policy,L4,risiko investasi,risiko investasi,1.0,normal
+Economic and Pricing Policy,L4,kelayakan usaha,kelayakan usaha,1.0,normal
+Economic and Pricing Policy,L4,kelayakan ekonomi,kelayakan ekonomi,1.0,normal
+Economic and Pricing Policy,L4,economic feasibility,economic feasibility,1.0,normal
+Economic and Pricing Policy,L4,commercial feasibility,commercial feasibility,1.0,normal
+Economic and Pricing Policy,L4,mekanisme pasar,mekanisme pasar,1.0,normal
+Economic and Pricing Policy,L4,harga pasar,harga pasar,1.0,normal
+Economic and Pricing Policy,L4,struktur tarif,struktur tarif,1.0,normal
+Economic and Pricing Policy,L4,kompensasi,kompensasi,1.0,normal
+Economic and Pricing Policy,L4,dana kompensasi,dana kompensasi,1.0,normal
+Economic and Pricing Policy,L4,pengadaan energi,pengadaan energi,1.0,normal
+Economic and Pricing Policy,L4,biaya pengadaan,biaya pengadaan,1.0,normal
+Economic and Pricing Policy,L4,pembiayaan infrastruktur energi,pembiayaan infrastruktur energi,1.35,normal
+Economic and Pricing Policy,L4,dukungan pendanaan,dukungan pendanaan,1.0,normal
+Economic and Pricing Policy,L4,dukungan fiskal,dukungan fiskal,1.0,normal
+Economic and Pricing Policy,L4,pendapatan negara,pendapatan negara,1.0,normal
+Economic and Pricing Policy,L4,kontribusi ekonomi,kontribusi ekonomi,1.0,normal
+Economic and Pricing Policy,L4,harga patokan tertinggi,harga patokan tertinggi,2.35,strong
+Economic and Pricing Policy,L4,harga pembelian tenaga listrik,harga pembelian tenaga listrik,2.35,strong
+Economic and Pricing Policy,L4,harga pembelian tenaga uap,harga pembelian tenaga uap,1.35,normal
+Economic and Pricing Policy,L4,harga kesepakatan,harga kesepakatan,1.0,normal
+Economic and Pricing Policy,L4,persetujuan harga,persetujuan harga,2.0,strong
+Economic and Pricing Policy,L4,evaluasi harga,evaluasi harga,1.0,normal
+Economic and Pricing Policy,L4,negosiasi harga,negosiasi harga,1.0,normal
+Economic and Pricing Policy,L4,faktor lokasi,faktor lokasi,1.0,normal
+Economic and Pricing Policy,L4,angka faktor lokasi,angka faktor lokasi,1.35,normal
+Economic and Pricing Policy,L4,faktor f,faktor f,1.0,normal
+Economic and Pricing Policy,L4,cent usd/kwh,cent usd kwh,1.35,normal
+Economic and Pricing Policy,L4,usd/kwh,usd kwh,1.0,normal
+Economic and Pricing Policy,L4,perjanjian jual beli uap panas bumi,perjanjian jual beli uap panas bumi,1.55,normal
+Economic and Pricing Policy,L4,pjbu,pjbu,1.0,normal
+Economic and Pricing Policy,L4,commercial operation date,commercial operation date,1.35,normal
+Economic and Pricing Policy,L4,cod,cod,1.0,normal
+Economic and Pricing Policy,L4,busbar,busbar,1.0,normal
+Economic and Pricing Policy,L4,excess power,excess power,1.0,normal
+Economic and Pricing Policy,L4,kelebihan tenaga listrik,kelebihan tenaga listrik,1.35,normal
+Economic and Pricing Policy,L4,harga fasilitas jaringan,harga fasilitas jaringan,1.35,normal
+Economic and Pricing Policy,L4,fasilitas baterai,fasilitas baterai,1.0,normal
+Economic and Pricing Policy,L4,fasilitas penyimpanan energi listrik,fasilitas penyimpanan energi listrik,1.35,normal
+Economic and Pricing Policy,L4,blended finance,blended finance,1.0,normal
+Economic and Pricing Policy,L4,penjaminan,penjaminan,1.0,normal
+Economic and Pricing Policy,L4,derisking,derisking,1.0,normal
+Economic and Pricing Policy,L4,penawaran harga,penawaran harga,1.0,normal
+Economic and Pricing Policy,L4,harga dasar,harga dasar,1.0,normal
+Economic and Pricing Policy,L4,eskalasi,eskalasi,1.0,normal
+Economic and Pricing Policy,L4,tarif iuran,tarif iuran,1.0,normal
+Economic and Pricing Policy,L4,iuran tetap,iuran tetap,1.0,normal
+Economic and Pricing Policy,L4,iuran produksi,iuran produksi,1.0,normal
+Governance and Institutional Responsibility,L5,pemerintah,pemerintah,0.2,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,pemerintah pusat,pemerintah pusat,1.0,normal
+Governance and Institutional Responsibility,L5,pemerintah daerah,pemerintah daerah,1.0,normal
+Governance and Institutional Responsibility,L5,menteri,menteri,0.2,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,kementerian,kementerian,0.25,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,gubernur,gubernur,1.0,normal
+Governance and Institutional Responsibility,L5,bupati,bupati,1.0,normal
+Governance and Institutional Responsibility,L5,walikota,walikota,1.0,normal
+Governance and Institutional Responsibility,L5,dewan energi nasional,dewan energi nasional,2.35,strong
+Governance and Institutional Responsibility,L5,den,den,1.0,normal
+Governance and Institutional Responsibility,L5,sekretariat jenderal dewan energi nasional,sekretariat jenderal dewan energi nasional,1.55,normal
+Governance and Institutional Responsibility,L5,rencana umum energi nasional,rencana umum energi nasional,2.35,strong
+Governance and Institutional Responsibility,L5,ruen,ruen,2.0,strong
+Governance and Institutional Responsibility,L5,rencana umum energi daerah,rencana umum energi daerah,2.35,strong
+Governance and Institutional Responsibility,L5,rued,rued,2.0,strong
+Governance and Institutional Responsibility,L5,rued-p,rued p,1.0,normal
+Governance and Institutional Responsibility,L5,rued provinsi,rued provinsi,1.0,normal
+Governance and Institutional Responsibility,L5,rued kabupaten,rued kabupaten,1.0,normal
+Governance and Institutional Responsibility,L5,rencana umum energi,rencana umum energi,1.35,normal
+Governance and Institutional Responsibility,L5,rukun,rukun,1.0,normal
+Governance and Institutional Responsibility,L5,rukn,rukn,1.0,normal
+Governance and Institutional Responsibility,L5,ruptl,ruptl,1.0,normal
+Governance and Institutional Responsibility,L5,kebijakan energi nasional,kebijakan energi nasional,2.35,strong
+Governance and Institutional Responsibility,L5,ken,ken,1.0,normal
+Governance and Institutional Responsibility,L5,perencanaan energi,perencanaan energi,1.0,normal
+Governance and Institutional Responsibility,L5,rencana energi,rencana energi,1.0,normal
+Governance and Institutional Responsibility,L5,rencana strategis,rencana strategis,1.0,normal
+Governance and Institutional Responsibility,L5,kebijakan nasional,kebijakan nasional,1.0,normal
+Governance and Institutional Responsibility,L5,strategi nasional,strategi nasional,1.0,normal
+Governance and Institutional Responsibility,L5,dokumen perencanaan,dokumen perencanaan,1.0,normal
+Governance and Institutional Responsibility,L5,rencana pembangunan jangka menengah,rencana pembangunan jangka menengah,1.35,normal
+Governance and Institutional Responsibility,L5,rpjmn,rpjmn,1.0,normal
+Governance and Institutional Responsibility,L5,rencana pembangunan jangka panjang,rencana pembangunan jangka panjang,1.35,normal
+Governance and Institutional Responsibility,L5,rpjpn,rpjpn,1.0,normal
+Governance and Institutional Responsibility,L5,peraturan,peraturan,0.2,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,peraturan perundang-undangan,peraturan perundang undangan,1.35,normal
+Governance and Institutional Responsibility,L5,regulasi,regulasi,1.0,normal
+Governance and Institutional Responsibility,L5,ketentuan,ketentuan,0.25,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,ketentuan peraturan perundang-undangan,ketentuan peraturan perundang undangan,1.35,normal
+Governance and Institutional Responsibility,L5,kewenangan,kewenangan,1.0,normal
+Governance and Institutional Responsibility,L5,wewenang,wewenang,1.0,normal
+Governance and Institutional Responsibility,L5,tugas dan fungsi,tugas dan fungsi,1.35,normal
+Governance and Institutional Responsibility,L5,tanggung jawab,tanggung jawab,1.0,normal
+Governance and Institutional Responsibility,L5,kewajiban pemerintah,kewajiban pemerintah,1.0,normal
+Governance and Institutional Responsibility,L5,urusan pemerintahan,urusan pemerintahan,1.0,normal
+Governance and Institutional Responsibility,L5,kewenangan daerah,kewenangan daerah,1.0,normal
+Governance and Institutional Responsibility,L5,kelembagaan,kelembagaan,1.0,normal
+Governance and Institutional Responsibility,L5,institusi,institusi,1.0,normal
+Governance and Institutional Responsibility,L5,badan pengatur,badan pengatur,1.0,normal
+Governance and Institutional Responsibility,L5,badan pelaksana,badan pelaksana,1.0,normal
+Governance and Institutional Responsibility,L5,badan usaha,badan usaha,0.3,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,pengelola energi,pengelola energi,1.0,normal
+Governance and Institutional Responsibility,L5,pengelolaan energi,pengelolaan energi,1.0,normal
+Governance and Institutional Responsibility,L5,pengawasan,pengawasan,1.0,normal
+Governance and Institutional Responsibility,L5,pembinaan,pembinaan,1.0,normal
+Governance and Institutional Responsibility,L5,pengendalian,pengendalian,1.0,normal
+Governance and Institutional Responsibility,L5,monitoring,monitoring,1.0,normal
+Governance and Institutional Responsibility,L5,evaluasi,evaluasi,1.0,normal
+Governance and Institutional Responsibility,L5,pemantauan,pemantauan,1.0,normal
+Governance and Institutional Responsibility,L5,pelaporan,pelaporan,1.0,normal
+Governance and Institutional Responsibility,L5,laporan,laporan,1.0,normal
+Governance and Institutional Responsibility,L5,koordinasi,koordinasi,1.0,normal
+Governance and Institutional Responsibility,L5,sinkronisasi,sinkronisasi,1.0,normal
+Governance and Institutional Responsibility,L5,harmonisasi,harmonisasi,1.0,normal
+Governance and Institutional Responsibility,L5,lintas sektor,lintas sektor,1.0,normal
+Governance and Institutional Responsibility,L5,koordinasi lintas sektor,koordinasi lintas sektor,1.35,normal
+Governance and Institutional Responsibility,L5,rapat koordinasi,rapat koordinasi,1.0,normal
+Governance and Institutional Responsibility,L5,sidang paripurna,sidang paripurna,1.0,normal
+Governance and Institutional Responsibility,L5,perizinan,perizinan,1.0,normal
+Governance and Institutional Responsibility,L5,izin usaha,izin usaha,1.0,normal
+Governance and Institutional Responsibility,L5,izin pemanfaatan,izin pemanfaatan,1.0,normal
+Governance and Institutional Responsibility,L5,izin penyediaan,izin penyediaan,1.0,normal
+Governance and Institutional Responsibility,L5,persetujuan,persetujuan,1.0,normal
+Governance and Institutional Responsibility,L5,penetapan,penetapan,1.0,normal
+Governance and Institutional Responsibility,L5,ditetapkan,ditetapkan,0.2,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,menetapkan,menetapkan,0.25,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,menyusun,menyusun,0.3,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,mengatur,mengatur,0.25,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,diatur,diatur,0.25,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,melaksanakan,melaksanakan,1.0,normal
+Governance and Institutional Responsibility,L5,pelaksanaan,pelaksanaan,0.3,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,implementasi,implementasi,0.35,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,program nasional,program nasional,0.45,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,program pemerintah,program pemerintah,1.0,normal
+Governance and Institutional Responsibility,L5,pedoman,pedoman,0.35,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,rujukan,rujukan,1.0,normal
+Governance and Institutional Responsibility,L5,acuan,acuan,0.35,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,standar,standar,0.3,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,norma,norma,1.0,normal
+Governance and Institutional Responsibility,L5,prosedur,prosedur,1.0,normal
+Governance and Institutional Responsibility,L5,kriteria,kriteria,1.0,normal
+Governance and Institutional Responsibility,L5,nspk,nspk,1.0,normal
+Governance and Institutional Responsibility,L5,tata kelola,tata kelola,1.0,normal
+Governance and Institutional Responsibility,L5,governance,governance,1.0,normal
+Governance and Institutional Responsibility,L5,administrasi,administrasi,1.0,normal
+Governance and Institutional Responsibility,L5,kebijakan,kebijakan,0.25,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,strategi,strategi,0.3,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,arah kebijakan,arah kebijakan,1.0,normal
+Governance and Institutional Responsibility,L5,rencana aksi,rencana aksi,1.0,normal
+Governance and Institutional Responsibility,L5,target nasional,target nasional,1.0,normal
+Governance and Institutional Responsibility,L5,sasaran nasional,sasaran nasional,1.0,normal
+Governance and Institutional Responsibility,L5,apbn,apbn,0.35,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,apbd,apbd,0.35,weak_or_ambiguous
+Governance and Institutional Responsibility,L5,anggaran pendapatan dan belanja negara,anggaran pendapatan dan belanja negara,1.55,normal
+Governance and Institutional Responsibility,L5,anggaran pendapatan dan belanja daerah,anggaran pendapatan dan belanja daerah,1.55,normal
+Governance and Institutional Responsibility,L5,kerja sama,kerja sama,1.0,normal
+Governance and Institutional Responsibility,L5,kemitraan,kemitraan,1.0,normal
+Governance and Institutional Responsibility,L5,partisipasi masyarakat,partisipasi masyarakat,1.0,normal
+Governance and Institutional Responsibility,L5,peran serta masyarakat,peran serta masyarakat,1.35,normal
+Governance and Institutional Responsibility,L5,koordinasi pemerintah pusat dan daerah,koordinasi pemerintah pusat dan daerah,1.55,normal
+Governance and Institutional Responsibility,L5,pembagian kewenangan,pembagian kewenangan,1.0,normal
+Governance and Institutional Responsibility,L5,desentralisasi,desentralisasi,1.0,normal
+Governance and Institutional Responsibility,L5,otonomi daerah,otonomi daerah,1.0,normal
+Environmental Protection and Safety,L6,lingkungan hidup,lingkungan hidup,2.0,strong
+Environmental Protection and Safety,L6,perlindungan lingkungan,perlindungan lingkungan,1.0,normal
+Environmental Protection and Safety,L6,pengelolaan lingkungan,pengelolaan lingkungan,1.0,normal
+Environmental Protection and Safety,L6,berwawasan lingkungan,berwawasan lingkungan,1.0,normal
+Environmental Protection and Safety,L6,pelestarian fungsi lingkungan,pelestarian fungsi lingkungan,1.35,normal
+Environmental Protection and Safety,L6,daya dukung lingkungan,daya dukung lingkungan,1.35,normal
+Environmental Protection and Safety,L6,daya tampung lingkungan,daya tampung lingkungan,1.35,normal
+Environmental Protection and Safety,L6,ramah lingkungan,ramah lingkungan,1.0,normal
+Environmental Protection and Safety,L6,pembangunan ramah lingkungan,pembangunan ramah lingkungan,1.35,normal
+Environmental Protection and Safety,L6,pencemaran,pencemaran,1.0,normal
+Environmental Protection and Safety,L6,pencemaran lingkungan,pencemaran lingkungan,2.0,strong
+Environmental Protection and Safety,L6,kerusakan lingkungan,kerusakan lingkungan,1.0,normal
+Environmental Protection and Safety,L6,dampak lingkungan,dampak lingkungan,1.0,normal
+Environmental Protection and Safety,L6,analisis mengenai dampak lingkungan,analisis mengenai dampak lingkungan,1.35,normal
+Environmental Protection and Safety,L6,amdal,amdal,2.0,strong
+Environmental Protection and Safety,L6,upaya pengelolaan lingkungan,upaya pengelolaan lingkungan,1.35,normal
+Environmental Protection and Safety,L6,ukl,ukl,1.0,normal
+Environmental Protection and Safety,L6,upaya pemantauan lingkungan,upaya pemantauan lingkungan,1.35,normal
+Environmental Protection and Safety,L6,upl,upl,1.0,normal
+Environmental Protection and Safety,L6,emisi,emisi,0.55,weak_or_ambiguous
+Environmental Protection and Safety,L6,emisi karbon,emisi karbon,2.0,strong
+Environmental Protection and Safety,L6,gas rumah kaca,gas rumah kaca,1.35,normal
+Environmental Protection and Safety,L6,grk,grk,1.0,normal
+Environmental Protection and Safety,L6,perubahan iklim,perubahan iklim,1.0,normal
+Environmental Protection and Safety,L6,mitigasi perubahan iklim,mitigasi perubahan iklim,1.35,normal
+Environmental Protection and Safety,L6,adaptasi perubahan iklim,adaptasi perubahan iklim,1.35,normal
+Environmental Protection and Safety,L6,rendah emisi,rendah emisi,1.0,normal
+Environmental Protection and Safety,L6,limbah,limbah,0.55,weak_or_ambiguous
+Environmental Protection and Safety,L6,limbah energi,limbah energi,1.0,normal
+Environmental Protection and Safety,L6,limbah b3,limbah b3,1.0,normal
+Environmental Protection and Safety,L6,limbah radioaktif,limbah radioaktif,2.0,strong
+Environmental Protection and Safety,L6,bahan berbahaya dan beracun,bahan berbahaya dan beracun,1.35,normal
+Environmental Protection and Safety,L6,keselamatan,keselamatan,0.45,weak_or_ambiguous
+Environmental Protection and Safety,L6,kesehatan,kesehatan,0.35,weak_or_ambiguous
+Environmental Protection and Safety,L6,keselamatan kerja,keselamatan kerja,1.0,normal
+Environmental Protection and Safety,L6,kesehatan kerja,kesehatan kerja,1.0,normal
+Environmental Protection and Safety,L6,k3,k3,1.0,normal
+Environmental Protection and Safety,L6,keselamatan dan kesehatan kerja,keselamatan dan kesehatan kerja,1.35,normal
+Environmental Protection and Safety,L6,keselamatan instalasi,keselamatan instalasi,1.0,normal
+Environmental Protection and Safety,L6,keselamatan ketenagalistrikan,keselamatan ketenagalistrikan,1.0,normal
+Environmental Protection and Safety,L6,keselamatan energi,keselamatan energi,1.0,normal
+Environmental Protection and Safety,L6,keselamatan nuklir,keselamatan nuklir,2.0,strong
+Environmental Protection and Safety,L6,keamanan nuklir,keamanan nuklir,1.0,normal
+Environmental Protection and Safety,L6,risiko kecelakaan,risiko kecelakaan,1.0,normal
+Environmental Protection and Safety,L6,kecelakaan nuklir,kecelakaan nuklir,1.0,normal
+Environmental Protection and Safety,L6,kecelakaan kerja,kecelakaan kerja,1.0,normal
+Environmental Protection and Safety,L6,bahaya radiasi,bahaya radiasi,1.0,normal
+Environmental Protection and Safety,L6,proteksi radiasi,proteksi radiasi,1.0,normal
+Environmental Protection and Safety,L6,paparan radiasi,paparan radiasi,1.0,normal
+Environmental Protection and Safety,L6,standar keselamatan,standar keselamatan,1.0,normal
+Environmental Protection and Safety,L6,standar lingkungan,standar lingkungan,1.0,normal
+Environmental Protection and Safety,L6,standar emisi,standar emisi,1.0,normal
+Environmental Protection and Safety,L6,dampak sosial,dampak sosial,1.0,normal
+Environmental Protection and Safety,L6,risiko sosial,risiko sosial,1.0,normal
+Environmental Protection and Safety,L6,risiko lingkungan,risiko lingkungan,1.0,normal
+Environmental Protection and Safety,L6,ganti rugi,ganti rugi,1.0,normal
+Environmental Protection and Safety,L6,kompensasi,kompensasi,1.0,normal
+Environmental Protection and Safety,L6,pemulihan dampak,pemulihan dampak,1.0,normal
+Environmental Protection and Safety,L6,rehabilitasi lingkungan,rehabilitasi lingkungan,1.0,normal
+Environmental Protection and Safety,L6,reklamasi,reklamasi,1.0,normal
+Environmental Protection and Safety,L6,restorasi lingkungan,restorasi lingkungan,1.0,normal
+Environmental Protection and Safety,L6,tanggung jawab lingkungan,tanggung jawab lingkungan,1.35,normal
+Environmental Protection and Safety,L6,tanggung jawab sosial,tanggung jawab sosial,1.35,normal
+Environmental Protection and Safety,L6,perlindungan masyarakat,perlindungan masyarakat,1.0,normal
+Environmental Protection and Safety,L6,keselamatan masyarakat,keselamatan masyarakat,1.0,normal
+Environmental Protection and Safety,L6,keamanan instalasi,keamanan instalasi,1.0,normal
+Environmental Protection and Safety,L6,pengamanan instalasi,pengamanan instalasi,1.0,normal
+Environmental Protection and Safety,L6,bencana,bencana,1.0,normal
+Environmental Protection and Safety,L6,risiko bencana,risiko bencana,1.0,normal
+Environmental Protection and Safety,L6,keadaan darurat,keadaan darurat,1.0,normal
+Environmental Protection and Safety,L6,penanggulangan keadaan darurat,penanggulangan keadaan darurat,1.35,normal
+Environmental Protection and Safety,L6,pengurangan risiko,pengurangan risiko,1.0,normal
+Environmental Protection and Safety,L6,pengendalian pencemaran,pengendalian pencemaran,1.0,normal
+Environmental Protection and Safety,L6,pencegahan pencemaran,pencegahan pencemaran,1.0,normal
+Environmental Protection and Safety,L6,pengurangan emisi,pengurangan emisi,1.0,normal
+Environmental Protection and Safety,L6,pengelolaan limbah,pengelolaan limbah,1.0,normal
+Environmental Protection and Safety,L6,pengendalian dampak lingkungan,pengendalian dampak lingkungan,1.35,normal

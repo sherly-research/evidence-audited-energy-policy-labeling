@@ -1,0 +1,7 @@
+﻿evaluation_setting,model,Accuracy,Accuracy_std,Macro F1,Macro F1_std,Weighted F1,Weighted F1_std,notes
+group_aware_article_split,TF-IDF + Linear SVM,0.8947,,0.8963,,0.8945,,single group-aware split by doc_id + pasal
+group_aware_article_split,TF-IDF + Logistic Regression,0.8373,,0.8449,,0.8354,,single group-aware split by doc_id + pasal
+group_aware_article_split,TF-IDF + Multinomial Naive Bayes,0.6459,,0.3727,,0.5814,,single group-aware split by doc_id + pasal
+stratified_clause_cv,TF-IDF + Linear SVM,0.8353,0.0119,0.8211,0.0359,0.8336,0.0122,5-fold stratified CV; values are means
+stratified_clause_cv,TF-IDF + Logistic Regression,0.8059,0.0185,0.7892,0.0302,0.8053,0.0177,5-fold stratified CV; values are means
+stratified_clause_cv,TF-IDF + Multinomial Naive Bayes,0.6801,0.0328,0.4427,0.064,0.6319,0.0395,5-fold stratified CV; values are means

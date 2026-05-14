@@ -1,0 +1,18 @@
+{
+  "pipeline_version": "conference_stage1_explainable_audit_v7",
+  "policy_theme_count": 6,
+  "labeling_mode": "rule_assisted_weighted_keywords",
+  "evaluation": [
+    "stratified_cv",
+    "group_aware_article_split"
+  ],
+  "evidence_audit": [
+    "keyword_weights",
+    "score_margin",
+    "review_queue",
+    "evidence_examples"
+  ],
+  "appendix_handling": "strict_true_appendix_heading_excluded_from_main_analysis",
+  "domain_marker_strategy": "separate_domain_markers_from_primary_policy_theme",
+  "random_state": 42
+}

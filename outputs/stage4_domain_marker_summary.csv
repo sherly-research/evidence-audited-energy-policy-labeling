@@ -1,0 +1,60 @@
+﻿domain_marker,policy_theme,document,n_clauses
+fossil_transition,Economic and Pricing Policy,Perpres No. 112 Tahun 2022,4
+fossil_transition,Energy Security,Perpres No. 112 Tahun 2022,1
+fossil_transition,Environmental Protection and Safety,Perpres No. 112 Tahun 2022,2
+fossil_transition,Governance and Institutional Responsibility,Perpres No. 112 Tahun 2022,4
+fossil_transition,Other/Needs Review,Perpres No. 112 Tahun 2022,5
+fossil_transition,Renewable and Sustainable Energy,Perpres No. 112 Tahun 2022,3
+geothermal,Energy Security,PP No. 79 Tahun 2014,1
+geothermal,Environmental Protection and Safety,PP No. 79 Tahun 2014,1
+geothermal,Governance and Institutional Responsibility,PP No. 79 Tahun 2014,1
+geothermal,Other/Needs Review,PP No. 79 Tahun 2014,1
+geothermal,Renewable and Sustainable Energy,PP No. 79 Tahun 2014,2
+geothermal,Economic and Pricing Policy,Perpres No. 112 Tahun 2022,16
+geothermal,Energy Security,Perpres No. 112 Tahun 2022,2
+geothermal,Governance and Institutional Responsibility,Perpres No. 112 Tahun 2022,5
+geothermal,Other/Needs Review,Perpres No. 112 Tahun 2022,3
+geothermal,Renewable and Sustainable Energy,Perpres No. 112 Tahun 2022,11
+geothermal,Economic and Pricing Policy,UU No. 21 Tahun 2014,5
+geothermal,Environmental Protection and Safety,UU No. 21 Tahun 2014,1
+geothermal,Governance and Institutional Responsibility,UU No. 21 Tahun 2014,50
+geothermal,Other/Needs Review,UU No. 21 Tahun 2014,60
+geothermal,Renewable and Sustainable Energy,UU No. 21 Tahun 2014,60
+geothermal,Renewable and Sustainable Energy,UU No. 30 Tahun 2007,2
+none,Economic and Pricing Policy,PP No. 79 Tahun 2014,25
+none,Energy Access and Equity,PP No. 79 Tahun 2014,13
+none,Energy Security,PP No. 79 Tahun 2014,50
+none,Environmental Protection and Safety,PP No. 79 Tahun 2014,14
+none,Governance and Institutional Responsibility,PP No. 79 Tahun 2014,35
+none,Other/Needs Review,PP No. 79 Tahun 2014,36
+none,Renewable and Sustainable Energy,PP No. 79 Tahun 2014,31
+none,Economic and Pricing Policy,Perpres No. 112 Tahun 2022,18
+none,Energy Security,Perpres No. 112 Tahun 2022,1
+none,Governance and Institutional Responsibility,Perpres No. 112 Tahun 2022,29
+none,Other/Needs Review,Perpres No. 112 Tahun 2022,34
+none,Governance and Institutional Responsibility,Perpres No. 22 Tahun 2017,30
+none,Other/Needs Review,Perpres No. 22 Tahun 2017,4
+none,Economic and Pricing Policy,UU No. 21 Tahun 2014,6
+none,Environmental Protection and Safety,UU No. 21 Tahun 2014,10
+none,Governance and Institutional Responsibility,UU No. 21 Tahun 2014,54
+none,Other/Needs Review,UU No. 21 Tahun 2014,71
+none,Economic and Pricing Policy,UU No. 30 Tahun 2007,6
+none,Energy Access and Equity,UU No. 30 Tahun 2007,7
+none,Energy Security,UU No. 30 Tahun 2007,20
+none,Environmental Protection and Safety,UU No. 30 Tahun 2007,7
+none,Governance and Institutional Responsibility,UU No. 30 Tahun 2007,70
+none,Other/Needs Review,UU No. 30 Tahun 2007,44
+none,Renewable and Sustainable Energy,UU No. 30 Tahun 2007,9
+renewable_power,Economic and Pricing Policy,PP No. 79 Tahun 2014,3
+renewable_power,Energy Security,PP No. 79 Tahun 2014,1
+renewable_power,Renewable and Sustainable Energy,PP No. 79 Tahun 2014,22
+renewable_power,Economic and Pricing Policy,Perpres No. 112 Tahun 2022,9
+renewable_power,Energy Security,Perpres No. 112 Tahun 2022,1
+renewable_power,Governance and Institutional Responsibility,Perpres No. 112 Tahun 2022,7
+renewable_power,Renewable and Sustainable Energy,Perpres No. 112 Tahun 2022,57
+renewable_power,Renewable and Sustainable Energy,UU No. 21 Tahun 2014,1
+renewable_power,Energy Access and Equity,UU No. 30 Tahun 2007,1
+renewable_power,Renewable and Sustainable Energy,UU No. 30 Tahun 2007,10
+tariff_procurement,Economic and Pricing Policy,Perpres No. 112 Tahun 2022,68
+tariff_procurement,Governance and Institutional Responsibility,Perpres No. 112 Tahun 2022,4
+tariff_procurement,Renewable and Sustainable Energy,Perpres No. 112 Tahun 2022,5

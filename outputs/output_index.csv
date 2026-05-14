@@ -1,0 +1,28 @@
+﻿stage,output,description
+0_config,stage0_pipeline_config.json,reproducible pipeline configuration
+2_cleaning,stage2_cleaned_text_samples.csv,sample raw and cleaned legal text
+2_cleaning,stage2_appendix_audit.csv,appendices/lampiran detected and excluded from main clause-level analysis
+3_clause_segmentation,stage3_clause_dataset.csv,raw clause-level dataset with source location
+3_clause_segmentation,stage3_segmentation_audit.csv,article and unit counts per document
+3b_filtering,stage3b_clause_dataset_with_filter.csv,clauses with substantive/non-substantive flags
+3b_filtering,stage3b_non_substantive_clause_audit.csv,non-substantive clauses excluded from downstream analysis
+3b_filtering,stage3b_filter_summary.csv,filter reason counts
+4_rule_labeling,stage4_labeled_clause_dataset.csv,"weighted rule-assisted labels, keywords, confidence, audit scores"
+4_label_schema,stage4_policy_theme_schema.csv,policy-theme definitions and keywords
+4_label_schema,stage4_keyword_inventory.csv,keyword inventory with assigned weights
+4_evidence_audit,stage4_evidence_audit_summary.csv,evidence strength counts by theme and review flag
+4_evidence_audit,stage4_review_queue.csv,clauses needing manual review based on weak or ambiguous evidence
+4_evidence_audit,stage4_label_evidence_examples.csv,representative evidence-backed clauses for each policy theme
+4_evidence_audit,stage4_ambiguous_label_audit.csv,low-margin or low-score label assignments for audit
+6_evaluation,stage6_stratified_cv_model_comparison.csv,Stratified CV model comparison
+6_evaluation,stage6_stratified_cv_per_class_f1.csv,Per-class F1 from stratified CV
+6_evaluation,stage6_group_article_split_distribution.csv,Group-aware article split label distribution
+6_evaluation,stage6_group_article_split_audit.csv,Group-aware split audit by doc_id + pasal
+6_evaluation,stage6_group_model_comparison.csv,Group-aware article split model comparison
+6_evaluation,stage6_group_model_predictions.csv,Group-aware test-set predictions
+6_evaluation,stage6_model_comparison.csv,Unified model comparison table
+7_interpretation,stage7_policy_theme_distribution_counts.csv,theme count distribution by document
+7_interpretation,stage7_policy_theme_distribution_percent.csv,theme percentage distribution by document
+7_interpretation,stage7_policy_theme_interpretation.csv,qualitative high/medium/low interpretation
+7_interpretation,stage7_document_policy_profile.csv,dominant theme by document
+7_interpretation,stage7_representative_clauses_by_theme.csv,representative examples by theme
